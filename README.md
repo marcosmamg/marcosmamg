@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python, Django and Vue<br>🤓 I’m thinking about becoming an Engineering manager<br>🤝 I’m looking for help with my managerial journey and how to become a good mentor<br>💬 Ask me about my country Nicaragua and fun stuff to do<br>⚡ Fun fact: I watch soccer games, but have never played 
+🔭 I’m currently working on Python, Django<br>🤓 I’m an Engineering manager, helping teams to deliver quality<br>🤝 I’m looking for help with my managerial journey and to become an excellent mentor<br>💬 Ask me about my country Nicaragua and fun stuff to do<br>⚡ Fun fact: I watch soccer games, but have never played 
 
 
 ## 🌐 Socials:
